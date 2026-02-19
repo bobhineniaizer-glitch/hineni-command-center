@@ -1,0 +1,63 @@
+{
+  "platforms": {
+    "instagram": {
+      "handle": "@hineni.auditions",
+      "url": "https://www.instagram.com/hineni.auditions/",
+      "followers": 19,
+      "followersGrowth": 5.6,
+      "posts": 13,
+      "engagement": 2.1,
+      "reachThisWeek": 350
+    },
+    "tiktok": {
+      "handle": "@hineni.auditions",
+      "url": "https://www.tiktok.com/@hineni.auditions",
+      "followers": 7,
+      "followersGrowth": 0,
+      "posts": 15,
+      "engagement": 3.3,
+      "reachThisWeek": 1775,
+      "totalLikes": 58,
+      "totalViews": 1775
+    },
+    "linkedin": {
+      "handle": "Hineni",
+      "url": "https://www.linkedin.com/company/hineni-auditions/",
+      "followers": 17,
+      "followersGrowth": 0,
+      "posts": 5,
+      "engagement": 1.8,
+      "reachThisWeek": 120
+    }
+  },
+  "topPosts": [
+    { "platform": "tiktok", "title": "Audition tips reel — 198 views (top performer)", "engagement": 4.2, "views": 198, "date": "2026-02-05", "url": "https://www.tiktok.com/@hineni.auditions" },
+    { "platform": "tiktok", "title": "Behind the scenes audition — 175 views", "engagement": 3.8, "views": 175, "date": "2026-02-03", "url": "https://www.tiktok.com/@hineni.auditions" },
+    { "platform": "tiktok", "title": "Casting call walkthrough — 173 views", "engagement": 3.5, "views": 173, "date": "2026-02-02", "url": "https://www.tiktok.com/@hineni.auditions" },
+    { "platform": "instagram", "title": "Discover Me competition launch", "engagement": 3.2, "likes": 4, "date": "2026-02-08", "url": "https://www.instagram.com/hineni.auditions/" }
+  ],
+  "contentCalendar": [
+    { "date": "2026-02-12", "platform": "instagram", "type": "Reel", "title": "Audition room etiquette tips", "status": "scheduled" },
+    { "date": "2026-02-13", "platform": "tiktok", "type": "Video", "title": "What casting directors actually look for", "status": "scheduled" },
+    { "date": "2026-02-14", "platform": "instagram", "type": "Post", "title": "Valentine's Day - Love your craft ❤️", "status": "draft" },
+    { "date": "2026-02-14", "platform": "tiktok", "type": "Video", "title": "Valentine's audition monologues", "status": "scheduled" },
+    { "date": "2026-02-15", "platform": "linkedin", "type": "Article", "title": "The future of self-tape auditions", "status": "draft" },
+    { "date": "2026-02-17", "platform": "instagram", "type": "Carousel", "title": "Top 10 audition mistakes", "status": "planned" },
+    { "date": "2026-02-18", "platform": "tiktok", "type": "Video", "title": "POV: You booked the role", "status": "planned" },
+    { "date": "2026-02-19", "platform": "instagram", "type": "Reel", "title": "Discover Me Feb highlights", "status": "planned" },
+    { "date": "2026-02-20", "platform": "linkedin", "type": "Post", "title": "Why actors need a digital portfolio", "status": "planned" }
+  ],
+  "competitors": [
+    { "name": "Backstage", "igFollowers": 735000, "engagement": 2.1 },
+    { "name": "Casting Networks", "igFollowers": 143000, "engagement": 1.8 },
+    { "name": "Actors Access", "igFollowers": 50600, "engagement": 1.5 }
+  ],
+  "marketingIdeas": [
+    { "id": 1, "title": "Monday Motivation Series", "platform": "instagram", "description": "Weekly motivational quote/tip for actors. 'Your next audition could change everything.'", "status": "drafted", "tools": "Canva" },
+    { "id": 2, "title": "Discover Me Competition Push", "platform": "tiktok", "description": "Free competition. $1K prize. No excuse. — Promote monthly Discover Me with UGC-style video.", "status": "drafted", "tools": "CapCut" },
+    { "id": 3, "title": "Pain Point: Ghosting", "platform": "instagram", "description": "'Tired of never hearing back?' — Address actor frustration, position Hineni as the solution.", "status": "drafted", "tools": "Canva" },
+    { "id": 4, "title": "Day in the Life of a Casting Director", "platform": "tiktok", "description": "BTS-style video showing what a casting director's day looks like. Educational + entertaining.", "status": "idea", "tools": "CapCut, HeyGen" },
+    { "id": 5, "title": "Success Story Spotlight", "platform": "linkedin", "description": "Feature an actor who got cast through Hineni (or create aspirational narrative).", "status": "idea", "tools": "Canva" },
+    { "id": 6, "title": "Audition Do's and Don'ts", "platform": "tiktok", "description": "Quick-cut comparison video: bad audition vs good audition. Highly shareable format.", "status": "idea", "tools": "CapCut" }
+  ]
+}

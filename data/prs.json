@@ -1,0 +1,24 @@
+{
+  "open": [
+    { "id": 1166, "repo": "hineni-web", "title": "feat: Add audition filtering by location and date range", "author": "Aiden", "status": "review", "age": "2d", "reviewStatus": "changes-requested", "labels": ["feature", "frontend"], "createdAt": "2026-02-09" },
+    { "id": 1165, "repo": "hineni-web", "title": "fix: Resolve mobile navigation hamburger menu z-index issue", "author": "Bob 🦉", "status": "open", "age": "3d", "reviewStatus": "pending", "labels": ["bug", "mobile"], "createdAt": "2026-02-08" },
+    { "id": 1164, "repo": "hineni-web", "title": "chore: Upgrade React to v19 and update dependencies", "author": "Aiden", "status": "ci-passing", "age": "4d", "reviewStatus": "approved", "labels": ["dependencies", "maintenance"], "createdAt": "2026-02-07" },
+    { "id": 642, "repo": "hineni-server", "title": "feat: Implement WebSocket real-time audition notifications", "author": "Bob 🦉", "status": "open", "age": "1d", "reviewStatus": "pending", "labels": ["feature", "backend", "websocket"], "createdAt": "2026-02-10" }
+  ],
+  "recentlyMerged": [
+    { "id": 1163, "repo": "hineni-web", "title": "feat: User profile photo upload with crop", "author": "Aiden", "mergedAt": "2026-02-06", "labels": ["feature"] },
+    { "id": 1160, "repo": "hineni-web", "title": "fix: Search results pagination off-by-one", "author": "Bob 🦉", "mergedAt": "2026-02-03", "labels": ["bug"] },
+    { "id": 640, "repo": "hineni-server", "title": "feat: Rate limiting middleware for API endpoints", "author": "Bob 🦉", "mergedAt": "2026-02-01", "labels": ["security", "backend"] },
+    { "id": 639, "repo": "hineni-server", "title": "chore: Database migration to add casting_calls table", "author": "Aiden", "mergedAt": "2026-01-28", "labels": ["database"] },
+    { "id": 1158, "repo": "hineni-web", "title": "feat: Dark mode toggle and theme persistence", "author": "Bob 🦉", "mergedAt": "2026-01-25", "labels": ["feature", "ux"] }
+  ],
+  "commitActivity": [
+    { "date": "Feb 5", "commits": 8 },
+    { "date": "Feb 6", "commits": 12 },
+    { "date": "Feb 7", "commits": 5 },
+    { "date": "Feb 8", "commits": 15 },
+    { "date": "Feb 9", "commits": 9 },
+    { "date": "Feb 10", "commits": 18 },
+    { "date": "Feb 11", "commits": 7 }
+  ]
+}

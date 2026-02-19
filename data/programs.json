@@ -1,0 +1,239 @@
+{
+  "lastUpdated": "2026-02-19T15:58:00-05:00",
+  "programs": [
+    {
+      "name": "ImageMagick",
+      "version": "7.1.2-13",
+      "type": "local",
+      "category": "Design & Media",
+      "description": "Image processing, conversion, compositing, effects",
+      "cost": "Free (open source)",
+      "usage": "Graphics creation, image manipulation, batch processing"
+    },
+    {
+      "name": "Sharp (Node.js)",
+      "version": "0.34.5",
+      "type": "local",
+      "category": "Design & Media",
+      "description": "High-performance image resizing and conversion",
+      "cost": "Free (open source)",
+      "usage": "Fast image resizing, format conversion, thumbnails"
+    },
+    {
+      "name": "Pillow (Python)",
+      "version": "12.1.1",
+      "type": "local",
+      "category": "Design & Media",
+      "description": "Python imaging library for creation and manipulation",
+      "cost": "Free (open source)",
+      "usage": "Image generation, text rendering, filters, compositing"
+    },
+    {
+      "name": "FFmpeg",
+      "version": "Latest",
+      "type": "local",
+      "category": "Design & Media",
+      "description": "Video/audio processing, conversion, streaming",
+      "cost": "Free (open source)",
+      "usage": "Video editing, frame extraction, format conversion, audio processing"
+    },
+    {
+      "name": "Whisper.cpp",
+      "version": "Latest",
+      "type": "local",
+      "category": "AI & ML",
+      "description": "Local speech-to-text transcription",
+      "cost": "Free (open source)",
+      "usage": "Audio transcription, voice processing"
+    },
+    {
+      "name": "Ollama",
+      "version": "0.15.5",
+      "type": "local",
+      "category": "AI & ML",
+      "description": "Local LLM inference (Qwen, Llama, Gemma, DeepSeek, etc.)",
+      "cost": "Free (open source)",
+      "usage": "Local AI inference, coding, analysis — no API cost"
+    },
+    {
+      "name": "MLX",
+      "version": "Latest",
+      "type": "local",
+      "category": "AI & ML",
+      "description": "Apple Silicon ML framework",
+      "cost": "Free (open source)",
+      "usage": "Local ML inference optimized for Apple Silicon"
+    },
+    {
+      "name": "OpenClaw",
+      "version": "2026.2.13",
+      "type": "local",
+      "category": "Platform",
+      "description": "Agent orchestration platform (this system)",
+      "cost": "Licensed",
+      "usage": "Agent management, task orchestration, messaging"
+    },
+    {
+      "name": "Claude (Anthropic API)",
+      "version": "claude-opus-4-6",
+      "type": "online",
+      "category": "AI & ML",
+      "description": "Primary reasoning model",
+      "cost": "Pay per token (~$15/M input, $75/M output)",
+      "usage": "Complex reasoning, strategy, writing, code review"
+    },
+    {
+      "name": "OpenRouter",
+      "version": "Various",
+      "type": "online",
+      "category": "AI & ML",
+      "description": "Multi-model API gateway (Gemini, DeepSeek, Llama, etc.)",
+      "cost": "Mix of free and paid models",
+      "usage": "Fallback models, free-tier inference, model diversity"
+    },
+    {
+      "name": "GitHub CLI (gh)",
+      "version": "2.86.0",
+      "type": "local + online",
+      "category": "Development",
+      "description": "GitHub API access — repos, PRs, issues, actions",
+      "cost": "Free (GitHub account)",
+      "usage": "Code management, PR creation, issue tracking, CI/CD"
+    },
+    {
+      "name": "Git",
+      "version": "2.39.5",
+      "type": "local",
+      "category": "Development",
+      "description": "Version control",
+      "cost": "Free (open source)",
+      "usage": "Source control, branching, deployment"
+    },
+    {
+      "name": "Node.js",
+      "version": "25.6.0",
+      "type": "local",
+      "category": "Development",
+      "description": "JavaScript runtime",
+      "cost": "Free (open source)",
+      "usage": "Server-side scripting, tool development, dashboard builds"
+    },
+    {
+      "name": "Python",
+      "version": "3.14.3",
+      "type": "local",
+      "category": "Development",
+      "description": "Python runtime",
+      "cost": "Free (open source)",
+      "usage": "Scripting, data processing, ML, automation"
+    },
+    {
+      "name": "Staticrypt",
+      "version": "3.5.4",
+      "type": "local",
+      "category": "Security",
+      "description": "Client-side HTML encryption for dashboards",
+      "cost": "Free (open source)",
+      "usage": "Dashboard password protection before deployment"
+    },
+    {
+      "name": "Cloudflared",
+      "version": "Latest",
+      "type": "local + online",
+      "category": "Infrastructure",
+      "description": "Cloudflare tunnel for secure access",
+      "cost": "Free tier",
+      "usage": "Secure tunneling, remote access"
+    },
+    {
+      "name": "Brave Search API",
+      "version": "API",
+      "type": "online",
+      "category": "Research",
+      "description": "Web search engine API",
+      "cost": "Free tier / Pay per query",
+      "usage": "Web research, competitive analysis, fact-checking"
+    },
+    {
+      "name": "Telegram Bot API",
+      "version": "API",
+      "type": "online",
+      "category": "Communication",
+      "description": "Messaging interface for agent communication",
+      "cost": "Free",
+      "usage": "Agent-to-human messaging, notifications, commands"
+    },
+    {
+      "name": "Memo (Apple Notes CLI)",
+      "version": "Latest",
+      "type": "local",
+      "category": "Productivity",
+      "description": "CLI for Apple Notes management",
+      "cost": "Free (open source)",
+      "usage": "Create, search, edit Apple Notes"
+    },
+    {
+      "name": "RemindCtl (Apple Reminders CLI)",
+      "version": "Latest",
+      "type": "local",
+      "category": "Productivity",
+      "description": "CLI for Apple Reminders management",
+      "cost": "Free (open source)",
+      "usage": "Create, list, manage Apple Reminders"
+    },
+    {
+      "name": "CamSnap",
+      "version": "Latest",
+      "type": "local",
+      "category": "Security & Monitoring",
+      "description": "RTSP/ONVIF camera frame/clip capture",
+      "cost": "Free (open source)",
+      "usage": "Security camera monitoring, frame capture"
+    },
+    {
+      "name": "BlogWatcher",
+      "version": "Latest",
+      "type": "local",
+      "category": "Research",
+      "description": "RSS/Atom feed monitoring",
+      "cost": "Free (open source)",
+      "usage": "Blog monitoring, content tracking"
+    },
+    {
+      "name": "Summarize",
+      "version": "Latest",
+      "type": "local",
+      "category": "Research",
+      "description": "URL/podcast/video transcript extraction and summarization",
+      "cost": "Free (open source)",
+      "usage": "Content summarization, YouTube transcription"
+    },
+    {
+      "name": "Ripgrep (rg)",
+      "version": "Latest",
+      "type": "local",
+      "category": "Development",
+      "description": "Ultra-fast text search across files",
+      "cost": "Free (open source)",
+      "usage": "Code search, log analysis, pattern matching"
+    },
+    {
+      "name": "jq",
+      "version": "1.7.1",
+      "type": "local",
+      "category": "Development",
+      "description": "JSON processor",
+      "cost": "Free (open source)",
+      "usage": "Data parsing, API response processing"
+    },
+    {
+      "name": "cURL",
+      "version": "8.7.1",
+      "type": "local",
+      "category": "Development",
+      "description": "HTTP client for API calls",
+      "cost": "Free (open source)",
+      "usage": "API integration, web requests, testing"
+    }
+  ]
+}
